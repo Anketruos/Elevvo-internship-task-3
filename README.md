@@ -76,3 +76,6 @@ Easily customize the app by modifying:
 
 *Time Quest - Organize Your Tasks, Simplify Your Life* ✨
 * Elevvo Intership project 3* 
+
+![SS1](https://github.com/user-attachments/assets/72aca769-6050-48d9-aaf8-8890302475cd)
+
